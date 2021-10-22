@@ -38,4 +38,4 @@ mpirun -n 9 --hostfile hostfile --bind-to core --rank-by core -x UCX_LOG_LEVEL=e
 
 ## NOTE
 
-The program is developped by Dr. CAI Wenjie and LI Jiaqun, and supervised by Dr. SHEN Yu.
+The program is developped by Dr. CAI Wenjie and LI Jiaqun, supervised by Prof. LI Jing and Dr. SHEN Yu.
